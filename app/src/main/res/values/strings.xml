@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BasicWidgets</string>
+    <string name="assigning_labels">Assigning Labels</string>
+    <string name="basic_button">Basic Button</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="enabled_false">Enabled: false</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+</resources>
